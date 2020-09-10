@@ -1,4 +1,5 @@
 function! VimEmoji()
+ iabbr :smile: 😃
  iabbr :joyful: 🤣
  iabbr :heart: ❤️
  iabbr :floppy: 💾
@@ -72,4 +73,3 @@ endfunction
 
 :call VimEmoji()
 :command ShowEmoji :call ShowEmoji()
-
