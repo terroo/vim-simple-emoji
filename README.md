@@ -1,7 +1,6 @@
 # vim-simple-emoji
 A simple auto-complete of emoji for Vim. As short as possible!
 
-[![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)](https://terminalroot.com.br/vim/)
 [![Success](https://badgen.net/github/checks/tunnckoCore/opensource)](https://terminalroot.com.br/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
