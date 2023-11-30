@@ -9,7 +9,7 @@ function! VimEmoji()
  iabbr :java: ♨️
  iabbr :time: ⌛
  iabbr :sad: 😞
- iabbr :face: 😀
+ iabbr :face: 🙂
  iabbr :bomb: 💣
  iabbr :film: 🎥
  iabbr :fire: 🔥
