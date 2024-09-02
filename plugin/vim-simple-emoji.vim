@@ -32,7 +32,7 @@ function! VimEmoji()
  iabbr :burguer: 🍔
  iabbr :world: 🌎
  iabbr :mouse: 🐁
- iabbr :check: ✔️
+ iabbr :check: ✅
  iabbr :up: ⬆️
  iabbr :key: 🔑
  iabbr :glass: 😎
